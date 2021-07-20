@@ -32,6 +32,9 @@
 
 """Provides a driver for NMEA GNSS devices."""
 
+# import sys
+# print(sys.version)
+
 import math
 
 import rospy
